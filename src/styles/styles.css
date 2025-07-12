@@ -1,0 +1,62 @@
+ *{
+   font-family: "Metamorphous", serif;
+}
+
+body{
+
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(190, 152, 110);
+}
+
+#resultado{
+    color: rgb(255, 206, 150) ;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(245, 231, 215);
+    margin: 0 auto;
+    border-radius: 20%;
+    border: 1px solid rgb(190, 152, 110);
+    box-shadow: inset 30px 30px 60px rgba(0, 0, 0, 0.9);
+    background-image: url(../images/Madeira3d.png);
+    background-size: cover;
+}
+
+#logo{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
+#nome, #pontuacao{
+    background-color: rgb(255, 206, 150);
+    border-radius: 9px;
+    border: 1px solid rgb(190, 152, 110);
+    padding: 10px;
+    margin: 10px;
+    box-shadow: inset 5px 5px 10px rgba(0, 0, 0, 0.9);
+}
+
+#classificar{
+    background-color: rgb(190, 152, 110);
+    color: rgb(0, 0, 0);
+    border-radius: 9px;
+    border: 1px solid rgb(255, 206, 150);
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.9);
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+#logo{
+    filter: drop-shadow(4px 4px 8px rgba(0,0,0,0.6)) drop-shadow(-2px -2px 4px rgba(0,0,0,0.3));
+
+}

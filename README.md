@@ -1,2 +1,2 @@
 # Adicionando um README 
-### em breve mais atualisações nesse documento
+### em breve mais atualizações nesse documento
