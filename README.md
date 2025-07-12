@@ -1,6 +1,8 @@
 # 🧙‍♂️ Classificador de Nível de Herói
 
 Projeto desenvolvido durante o Bootcamp da DIO, utilizando HTML, CSS e JavaScript. A aplicação simula a classificação de um herói com base em sua pontuação (XP), atribuindo um nível como **Ferro**, **Bronze**, **Prata**, até **Radiante**.
+
+
 ![screenshot](./src/images/Captura%20de%20tela%20de%202025-07-12%2019-40-08.png)
 
 ##  Funcionalidades
@@ -33,6 +35,6 @@ Projeto desenvolvido durante o Bootcamp da DIO, utilizando HTML, CSS e JavaScrip
 | 10001 ou mais       | Radiante      |
 
 ## Veja funcionando
-
+# [Classificador de Nível de herói](https://abrahaobraga10.github.io/desafio-felipao/)
 ## Autor
-Abrahão – Estudante de Engenharia de Software | Criador de projetos criativos e visuais | Bootcamper na DIO
+Abrahão Braga – Estudante de Engenharia de Software | Criador de projetos criativos e visuais | Bootcamper na [DIO](https://www.dio.me/)
